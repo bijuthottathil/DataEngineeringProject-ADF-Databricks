@@ -42,7 +42,11 @@
 Now creating link to ADLS storage account
 ![image](https://github.com/user-attachments/assets/730e5a32-6a14-4ec6-8745-6178f5217133)
 
+Products table copied to ADLS storage account after running pipeline
 
+![image](https://github.com/user-attachments/assets/cbbab31f-9761-40a7-b24a-e7080a5fe9c9)
+check Paraquet file in Bronze folder
+![image](https://github.com/user-attachments/assets/5890f3fc-4d73-4052-b489-b2b938758ee3)
 
 ADF to copy data
 
