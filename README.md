@@ -48,6 +48,12 @@ Products table copied to ADLS storage account after running pipeline
 check Paraquet file in Bronze folder
 ![image](https://github.com/user-attachments/assets/5890f3fc-4d73-4052-b489-b2b938758ee3)
 
+
+created new pipeline to move data from 2 tables 
+
+![image](https://github.com/user-attachments/assets/350eb7d8-d66f-4b29-bfda-4c5f9f20f75c)
+
+
 ADF to copy data
 
 ADLS Gen 2- to store , it is cheap
