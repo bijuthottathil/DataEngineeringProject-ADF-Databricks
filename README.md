@@ -53,6 +53,17 @@ created new pipeline to move data from 2 tables
 
 ![image](https://github.com/user-attachments/assets/350eb7d8-d66f-4b29-bfda-4c5f9f20f75c)
 
+iterating multiple tables using lookup and copy each activities in ADF
+![image](https://github.com/user-attachments/assets/3222ade3-1e73-4540-b436-1c1a51a97dac)
+
+Execution of postgress DB tables from onPrem to Bronze 
+
+![image](https://github.com/user-attachments/assets/b93ebd83-7fc6-4584-a3fb-dd4e243bf86c)
+
+![image](https://github.com/user-attachments/assets/6e5c1311-ca0c-426b-87ef-bbdfaa4a85ad)
+
+
+
 
 ADF to copy data
 
