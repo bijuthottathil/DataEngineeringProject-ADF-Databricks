@@ -24,8 +24,11 @@
 3 Create Key Vault to keep posgress credentials
 
 ![image](https://github.com/user-attachments/assets/de3193e8-6531-4d92-81e1-551ed08357c6)
+4  Store Posgres credentials in 2 secrets
 
 ![image](https://github.com/user-attachments/assets/e1135c65-2bbe-4451-bf5b-ca400f6b7974)
+
+5 Create new Azure Data Factory and open the studio
 
 
 
