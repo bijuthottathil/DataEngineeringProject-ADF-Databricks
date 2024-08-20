@@ -11,7 +11,7 @@ Pre Requisites
 ![image](https://github.com/user-attachments/assets/6323dab6-445c-465e-a2a7-14b0cb58df41)
 
 
-2 . Setup self hosted runtime to push data from PostgresDB to cloud
+2 . Setup self hosted runtime to push data from PostgresDB to cloud ( This can be done while creating linked service in Azure Data Factory)
 ![image](https://github.com/user-attachments/assets/22dc5bed-4341-426c-9c18-5ce450cd9723)
 
 
