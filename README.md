@@ -28,8 +28,9 @@
 
 ![image](https://github.com/user-attachments/assets/e1135c65-2bbe-4451-bf5b-ca400f6b7974)
 
-5 Create new Azure Data Factory and open the studio
+5 Create new Azure Data Factory and open the studio. Navigate to runtimes. I had created selfhosted runtime before, so it is listing there
 
+![image](https://github.com/user-attachments/assets/fd2d0616-1b14-41bc-98ad-2af76a33b2bb)
 
 
 
