@@ -21,6 +21,14 @@
 2 . Setup self hosted runtime to push data from PostgresDB to cloud ( This can be done while creating linked service in Azure Data Factory)
 ![image](https://github.com/user-attachments/assets/22dc5bed-4341-426c-9c18-5ce450cd9723)
 
+3 Create Key Vault to keep posgress credentials
+
+![image](https://github.com/user-attachments/assets/de3193e8-6531-4d92-81e1-551ed08357c6)
+
+![image](https://github.com/user-attachments/assets/e1135c65-2bbe-4451-bf5b-ca400f6b7974)
+
+
+
 
 ADF to copy data
 
