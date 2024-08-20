@@ -62,7 +62,11 @@ Execution of postgress DB tables from onPrem to Bronze
 
 ![image](https://github.com/user-attachments/assets/6e5c1311-ca0c-426b-87ef-bbdfaa4a85ad)
 
+Piple line executed and table data stored in proper folder structure
 
+![image](https://github.com/user-attachments/assets/4a97bf2f-ee25-41fc-a724-5563c4a99769)
+
+![image](https://github.com/user-attachments/assets/5c05b442-7e65-4057-b897-8aa644ca9fbb)
 
 
 ADF to copy data
