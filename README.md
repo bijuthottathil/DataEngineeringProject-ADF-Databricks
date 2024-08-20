@@ -39,6 +39,8 @@
 ![image](https://github.com/user-attachments/assets/73185713-1439-4380-ad72-9b7d72c5ba41)
 
 
+Now creating link to ADLS storage account
+![image](https://github.com/user-attachments/assets/730e5a32-6a14-4ec6-8745-6178f5217133)
 
 
 
