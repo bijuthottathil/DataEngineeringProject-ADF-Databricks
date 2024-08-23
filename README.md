@@ -69,6 +69,11 @@ Piple line executed and table data stored in proper folder structure
 ![image](https://github.com/user-attachments/assets/5c05b442-7e65-4057-b897-8aa644ca9fbb)
 
 
+Mounting ADLS in Databricks notebook after creatingcluster
+![image](https://github.com/user-attachments/assets/640913b3-f772-4058-985f-7a5732794807)
+
+
+
 ADF to copy data
 
 ADLS Gen 2- to store , it is cheap
