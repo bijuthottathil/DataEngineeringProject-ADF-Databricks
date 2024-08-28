@@ -72,6 +72,40 @@ Piple line executed and table data stored in proper folder structure
 Mounting ADLS in Databricks notebook after creatingcluster
 ![image](https://github.com/user-attachments/assets/640913b3-f772-4058-985f-7a5732794807)
 
+Bronze to Silver notebook
+![image](https://github.com/user-attachments/assets/b27cc4c7-cfb4-43ec-88de-46ea363b4b0f)
+Silver to Gold after joining dimension and fact tables using Broadcast join
+![image](https://github.com/user-attachments/assets/1a8e287d-12f4-4b25-990d-38ebf8716814)
+
+![image](https://github.com/user-attachments/assets/27c83782-19ac-4c7c-9542-1ed00bcae438)
+
+
+To access databricks cluster in adf, please make sure to create access token
+
+![image](https://github.com/user-attachments/assets/b0be33f8-33ea-47ef-bde3-983ec09364da)
+
+add additional databricks control in the pipeline and choose bronze to silver note book
+
+![image](https://github.com/user-attachments/assets/eda79f86-bba0-449e-bbba-9ba31cfdea7e)
+
+Before running pipeline, making sure that only folders are available, without data
+
+![image](https://github.com/user-attachments/assets/9e176787-e576-4296-8fd5-2efdeff48a89)
+
+
+![image](https://github.com/user-attachments/assets/375e4201-63d4-4664-8444-57744c0c24b5)
+![image](https://github.com/user-attachments/assets/457a82a8-38ca-46b9-9ab8-527fca08053a)
+
+All jobs completed 
+![image](https://github.com/user-attachments/assets/3e520b99-1620-45af-bd2c-feef057cbbe8)
+
+You can see cleansed parquet file loaded in Gold adls storage
+
+![image](https://github.com/user-attachments/assets/0cb4bcca-14c7-4438-a726-c60aca3c9a57)
+
+Silver to Gold transformation in Databricks cluster is here
+
+![image](https://github.com/user-attachments/assets/26487e5b-fd7a-40ce-b661-670f9d2ff090)
 
 
 ADF to copy data
