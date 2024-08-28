@@ -108,13 +108,3 @@ Silver to Gold transformation in Databricks cluster is here
 ![image](https://github.com/user-attachments/assets/26487e5b-fd7a-40ce-b661-670f9d2ff090)
 
 
-ADF to copy data
-
-ADLS Gen 2- to store , it is cheap
-Azure Databricks- to transform raw data to curated data
-medallion architecture followed
-
-Synapse- Gold layer data will be loaded in Synapse
-Power BI--
-Azure active directory- identity access management tool
-kv for storing securities
